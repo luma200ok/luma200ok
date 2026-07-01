@@ -12,6 +12,7 @@
 - 🔧 **백엔드**로 시작해 **AI/ML**로 영역을 넓히는 중입니다.
 - 🌱 데이터 수집 → 모델링(ML/DL) → LLM/RAG → 서비스 배포까지 **한 흐름으로** 다룹니다.
 - 🤝 혼자 만드는 것뿐 아니라 **팀 협업(Git 워크플로우·PR 리뷰 자동화)**에 관심이 많습니다.
+- ✍️ 학습·회고를 블로그에 기록합니다 → **[luma200ok.tistory.com](https://luma200ok.tistory.com/)**
 - 📫 rkqkdrn2@gmail.com
 
 ---
@@ -58,12 +59,6 @@
 |---|---|---|
 | 🍅 [**smartfarm_ai**](https://github.com/luma200ok/smartfarm_ai) | 토마토 재배도우미 AI — **ML·DL·LLM 3단 파이프라인**. 병해 예측(RandomForest 99.5%) → 시계열 생육 예측(LSTM) → RAG 기반 처방 상담(LLM) | `scikit-learn` `PyTorch` `RAG` `Streamlit` |
 | ✅ [**DopaCheck**](https://github.com/luma-team-ai/DopaCheck) | 팀 협업 프로젝트 — Git 워크플로우 기반 공동 개발 | `Team` `Collaboration` |
-
----
-
-### ✍️ Blog
-
-기술 학습·프로젝트 회고를 기록합니다 → **[luma200ok.tistory.com](https://luma200ok.tistory.com/)**
 
 ---
 
