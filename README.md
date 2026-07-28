@@ -11,7 +11,7 @@
 
 - 🔧 **백엔드**로 시작해 **AI/ML**로 영역을 넓히는 중입니다.
 - 🌱 데이터 수집 → 모델링(ML/DL) → LLM/RAG → 서비스 배포까지 **한 흐름으로** 다룹니다.
-- 🤝 혼자 만드는 것뿐 아니라 **팀 협업(Git 워크플로우·PR 리뷰 자동화)**에 관심이 많습니다.
+- 🤝 혼자 만드는 것뿐 아니라 **팀 협업(Git 워크플로우·PR 리뷰 자동화)**에 관심이 많습니다. **[team_project](https://github.com/luma-team-ai)**
 - ✍️ 학습·회고를 블로그에 기록합니다 → **[luma200ok.tistory.com](https://luma200ok.tistory.com/)**
 - 📫 rkqkdrn2@gmail.com
 
