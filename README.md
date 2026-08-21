@@ -5,6 +5,12 @@
   <sub>서비스가 돌아가는 구조를 이해하고, 그 위에 AI를 얹습니다.</sub>
 </p>
 
+<p align="center">
+  <a href="https://luma200ok.com"><img src="https://img.shields.io/badge/Portfolio-luma200ok.com-1B1F24?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://luma200ok.tistory.com/"><img src="https://img.shields.io/badge/Blog-Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="mailto:rkqkdrn2@gmail.com"><img src="https://img.shields.io/badge/Email-rkqkdrn2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
 ---
 
 ### 🧭 About Me
@@ -55,10 +61,16 @@
 
 ### 🚀 Featured Projects
 
-| 프로젝트 | 소개 | 스택 |
-|---|---|---|
-| 🍅 [**smartfarm_ai**](https://github.com/luma200ok/smartfarm_ai) | 토마토 재배도우미 AI — **ML·DL·LLM 3단 파이프라인**. 병해 예측(RandomForest 99.5%) → 시계열 생육 예측(LSTM) → RAG 기반 처방 상담(LLM) | `scikit-learn` `PyTorch` `RAG` `Streamlit` |
-| ✅ [**DopaCheck**](https://github.com/luma-team-ai/DopaCheck) | 팀 협업 프로젝트 — Git 워크플로우 기반 공동 개발 | `Team` `Collaboration` |
+> 아래 프로젝트는 전부 **직접 구축한 서버(OCI·nginx·CI/CD)에서 실제 운영 중**입니다. Demo를 눌러보세요.
+
+| 프로젝트 | 소개 | 스택 | Demo |
+|---|---|---|---|
+| 🌱 [**smartfarm_service**](https://github.com/luma200ok/smartfarm_service) | **멀티테넌트 스마트팜 웹서비스 (3-tier)** — 농장 생성·초대코드 멤버십, 잎 사진 병해 진단 + LLM 처방 이력 관리. smartfarm_ai를 실서비스로 확장 | `Spring Boot` `Next.js` `PostgreSQL` `FastAPI` | [🔗 farm.luma200ok.com](https://farm.luma200ok.com) |
+| 🍅 [**smartfarm_ai**](https://github.com/luma200ok/smartfarm_ai) | **ML·DL·LLM 3단 파이프라인** — 다작물 잎 병해 진단(DL acc 0.96) → 생육 예측(ML) → RAG 기반 처방 상담(LLM) | `scikit-learn` `PyTorch` `LangChain` `RAG` | [🔗 smartfarm-ai.luma200ok.com](https://smartfarm-ai.luma200ok.com) |
+| 🏗️ [**HajaCheck**](https://github.com/luma200ok/HajaCheck) | **AI 시설물 외관 하자 점검 플랫폼** — U-Net 균열·YOLO 면적형 하자 탐지 → 규칙 기반 A~E 등급 → LLM 점검 보고서 초안 + 법규 RAG Q&A | `Spring Boot` `FastAPI` `React` `U-Net/YOLO` | [🔗 hajacheck.luma200ok.com](https://hajacheck.luma200ok.com) |
+| 🏭 [**mes_server**](https://github.com/luma200ok/mes_server) | **제조실행시스템(MES) 백엔드** — Redis+MySQL 이중 저장소로 센서 데이터 고속 수집, SSE 실시간 푸시, 1분 배치 집계, Discord 알림 | `Spring Boot` `Redis` `SSE` `MySQL` | [🔗 Swagger](https://mes.luma200ok.com/swagger-ui/index.html) |
+| 🔥 [**community**](https://github.com/luma200ok/community) | **풀사이클 커뮤니티 플랫폼** — Vanilla JS SPA + S3 스토리지·Redis 캐싱·nginx 무중단 배포까지 1인 구축 | `Spring Boot` `Redis` `S3` `Nginx` | [🔗 community.luma200ok.com](https://community.luma200ok.com) |
+| 🧠 [**DopaCheck**](https://github.com/luma-team-ai/DopaCheck) | **팀 프로젝트** — 영수증·사용시간을 AI로 환산해 도파민 소비를 정량화. Git 워크플로우·PR 리뷰 기반 공동 개발 | `Flask` `MariaDB` `Team` | [🔗 dopacheck.luma200ok.com](https://dopacheck.luma200ok.com) |
 
 ---
 
