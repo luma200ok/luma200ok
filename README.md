@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://luma200ok.com"><img src="https://img.shields.io/badge/Portfolio-luma200ok.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://luma200ok.tistory.com/"><img src="https://img.shields.io/badge/Blog-Tistory-EA4335?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-  <a href="mailto:rkqkdrn2@gmail.com"><img src="https://img.shields.io/badge/Email-rkqkdrn2@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://luma200ok.com"><img src="https://img.shields.io/badge/Portfolio-luma200ok.com-24292E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://luma200ok.tistory.com/"><img src="https://img.shields.io/badge/Blog-Tistory-24292E?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="mailto:rkqkdrn2@gmail.com"><img src="https://img.shields.io/badge/Email-rkqkdrn2@gmail.com-24292E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
